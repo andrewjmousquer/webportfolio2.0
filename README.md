@@ -15,7 +15,7 @@
 ![Logo](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-portfolio_114360-126.jpg)
 
 # Link
--> Link [Site]("https://webportfolio2-0-2j7z.vercel.app/")
+-> Link [Site](https://webportfolio2-0-2j7z.vercel.app/)
 
 
 ## Stack utilizada
