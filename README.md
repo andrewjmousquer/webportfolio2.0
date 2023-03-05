@@ -15,7 +15,7 @@
 ![Logo](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-portfolio_114360-126.jpg)
 
 # Link
--> Link [Site](https://delta357.github.io/webportfolio/)
+-> Link [Site](#)
 
 
 ## Stack utilizada
